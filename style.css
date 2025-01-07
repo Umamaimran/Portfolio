@@ -1,0 +1,18 @@
+body{
+    /* background-image:url('https://img.freepik.com/free-vector/blue-glowing-diagonal-lines-abstract-background-design_1017-27053.jpg?semt=ais_hybrid');
+background-size: 100%; */
+color: black;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+}
+#menuicons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-bottom: 20px;
+margin-left: 40px;
+margin-right: 20px;
+margin-top: 7px;
+}
